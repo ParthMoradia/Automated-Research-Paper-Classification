@@ -17,7 +17,7 @@ An ensemble approach was used to combine the strengths of each model, leading to
 
 ## Performance
 
-The ensemble model achieved an F1 Score of 0.67, indicating a high degree of precision and recall in classifying research papers into the correct categories.
+The ensemble model achieved an F1 Score of 0.70, indicating a high degree of precision and recall in classifying research papers into the correct categories.
 
 ## Project Structure
 
